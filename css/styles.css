@@ -1,0 +1,13 @@
+:root {
+    --font-family: "Montserrat", sans-serif;
+    --second-family: "RobotoSlab", sans-serif;
+    --third-family: "DroidSerif", sans-serif;
+    --font3: "Bilbo Swash Caps", sans-serif;
+
+    --accent-color: #FED136;
+    --main-background-color: white;
+    --main-text-color: #222222;
+    --main-desc-color: #777777;
+
+    --contact-background-color: #222222;
+}
